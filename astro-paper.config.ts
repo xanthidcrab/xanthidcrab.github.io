@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: false,
-      url: "https://github.com/xanthidcrab/xanthidcrab.github.io/edit/main/",
+      
     },
     search: "pagefind",
   },
